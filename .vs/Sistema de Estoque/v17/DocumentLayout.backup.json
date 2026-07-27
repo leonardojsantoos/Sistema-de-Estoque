@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FB7DD7-EA49-4441-936E-44FD630DB342}|Sistema de Estoque\\Sistema de Estoque.csproj|c:\\users\\manha.cetafest\\documents\\repos\\sistema-de-estoque\\sistema de estoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FB7DD7-EA49-4441-936E-44FD630DB342}|Sistema de Estoque\\Sistema de Estoque.csproj|solutionrelative:sistema de estoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FB7DD7-EA49-4441-936E-44FD630DB342}|Sistema de Estoque\\Sistema de Estoque.csproj|c:\\users\\manha.cetafest\\documents\\repos\\sistema-de-estoque\\sistema de estoque\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5FB7DD7-EA49-4441-936E-44FD630DB342}|Sistema de Estoque\\Sistema de Estoque.csproj|solutionrelative:sistema de estoque\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FB7DD7-EA49-4441-936E-44FD630DB342}|Sistema de Estoque\\Sistema de Estoque.csproj|c:\\users\\manha.cetafest\\documents\\repos\\sistema-de-estoque\\sistema de estoque\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FB7DD7-EA49-4441-936E-44FD630DB342}|Sistema de Estoque\\Sistema de Estoque.csproj|solutionrelative:sistema de estoque\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FB7DD7-EA49-4441-936E-44FD630DB342}|Sistema de Estoque\\Sistema de Estoque.csproj|c:\\users\\manha.cetafest\\documents\\repos\\sistema-de-estoque\\sistema de estoque\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5FB7DD7-EA49-4441-936E-44FD630DB342}|Sistema de Estoque\\Sistema de Estoque.csproj|solutionrelative:sistema de estoque\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\Program.cs",
+              "RelativeDocumentMoniker": "Sistema de Estoque\\Program.cs",
+              "ToolTip": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\Program.cs",
+              "RelativeToolTip": "Sistema de Estoque\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T12:13:25.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sistema de Estoque\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Sistema de Estoque\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-27T12:13:13.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Sistema de Estoque\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Sistema de Estoque\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T12:12:40.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\appsettings.json",
+              "RelativeDocumentMoniker": "Sistema de Estoque\\appsettings.json",
+              "ToolTip": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\appsettings.json",
+              "RelativeToolTip": "Sistema de Estoque\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-27T12:09:52.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

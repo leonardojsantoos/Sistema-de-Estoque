@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sistema de Estoque.props" />
+</Project>

@@ -1,0 +1,99 @@
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\bin\Debug\net9.0\appsettings.json
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\bin\Debug\net9.0\Sistema de Estoque.staticwebassets.runtime.json
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\bin\Debug\net9.0\Sistema de Estoque.staticwebassets.endpoints.json
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\bin\Debug\net9.0\Sistema de Estoque.exe
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\bin\Debug\net9.0\Sistema de Estoque.deps.json
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\bin\Debug\net9.0\Sistema de Estoque.runtimeconfig.json
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\bin\Debug\net9.0\Sistema de Estoque.dll
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\bin\Debug\net9.0\Sistema de Estoque.pdb
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\Sistema de Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\Sistema de Estoque.AssemblyInfoInputs.cache
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\Sistema de Estoque.AssemblyInfo.cs
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\Sistema de Estoque.csproj.CoreCompileInputs.cache
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\Sistema de Estoque.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\Sistema de Estoque.RazorAssemblyInfo.cache
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\Sistema de Estoque.RazorAssemblyInfo.cs
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\Sistema de Estoque.sourcelink.json
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\scopedcss\bundle\Sistema de Estoque.styles.css
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\scopedcss\projectbundle\Sistema de Estoque.bundle.scp.css
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\zlqd44sh20-b9sayid5wm.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\u2uc2en8c6-61n19gt1b8.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\gx6vp2jqn1-xtxxf3hu2r.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\ldhr2chbke-t1cqhe9u97.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\5hlv8epkpx-c2jlpeoesf.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\dmaup8o6bu-sejl45xvog.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\g599f77cit-aexeepp0ev.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\isk77manw3-xvp3kq03qx.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\95jahdkbp7-ausgxo2sd3.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\xfnqfqsmgm-22vffe00uq.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\d16znlcoeo-cosvhxvwiu.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\pilcepxw5n-qesaa3a1fm.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\dw9bsr6rkj-fvhpjtyr6v.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\8vgkqn0rqz-tmc1g35s3z.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\0rtnd0wd25-fsbi9cje9m.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\gtq7y6p8xa-rxsg74s51o.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\za0hp35e1w-ee0r1s7dh0.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\npodkqfmc3-q9ht133ko3.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\445nn889v4-jd9uben2k1.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\z73c6d66ol-gye83jo8yx.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\z398iij344-r4e9w2rdcm.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\wkbri9octo-wl58j5mj3v.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\5lqjzgf8p8-c2oey78nd0.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\4cpz717xla-d4r6k3f320.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\8iuhsthhyk-j5mq2jizvt.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\kl8qwbegc0-keugtjm085.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\1cxr2ddtii-nvvlpmu67g.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\eokv6z6h9k-zub09dkrxp.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\ncgj32flqp-pj5nd1wqec.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\3205evsbyn-43atpzeawx.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\31lovi0evz-v0zj4ognzu.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\6hcjbth0tu-ynyaa8k90p.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\ku57nrws9h-hrwsygsryq.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\7e9e4jecc8-c63t5i9ira.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\dz8nf3iqhb-ft3s53vfgj.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\xgsq1c7ory-4094rpi4f9.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\0aqyajed3y-6pdc2jztkx.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\bgu4fu042a-hd3gran6i8.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\bewjpznm4w-iovd86k7lj.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\wd8lflo15b-ltid2c489k.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\cgvskp8c7e-kbrnm935zg.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\wreg68bmwi-8vyfqsqgz1.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\r4hqg0hmdw-y7v9cxd14o.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\ankl3v9bdy-u9q1upor1n.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\mg7m1kgt7j-h1s4sie4z3.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\2ig2wz3t3d-4d85u1mtcx.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\arwhdb79sk-0j3bgjxly4.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\oe8jr3zgjc-03hjc8e09r.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\myhpy8n0bn-48y08845bh.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\36sqm74jt2-356vix0kms.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\3ykfvyf1si-83jwlth58m.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\e7ezqagvl1-mrlpezrjn3.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\ncharpxgjj-worgj0nhwm.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\w0hquow72j-gk0pw8i4co.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\nqic4pl2ip-x0q3zqp4vz.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\39uah6q7fy-d6nrnj6jjx.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\tjkajsnweb-m9qm4tazc0.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\bqf7qa0zdz-ttgo8qnofa.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\mx7zek5xs4-jjsuc0puko.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\zwjb9f2tna-9vr69e8ynj.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\jw2uuuq64j-87fc7y1x7t.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\c864l7u3kb-mlv21k5csn.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\bm74gs10dj-iweonmzvpw.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\compressed\vqxiazcpcc-iweonmzvpw.gz
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\staticwebassets\msbuild.Sistema de Estoque.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\staticwebassets\msbuild.Sistema de Estoque.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\staticwebassets\msbuild.build.Sistema de Estoque.props
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Sistema de Estoque.props
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Sistema de Estoque.props
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\Sistema de Estoque.dll
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\refint\Sistema de Estoque.dll
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\Sistema de Estoque.pdb
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\Sistema de Estoque.genruntimeconfig.cache
+C:\Users\manha.cetafest\Documents\Repos\Sistema-de-Estoque\Sistema de Estoque\obj\Debug\net9.0\ref\Sistema de Estoque.dll

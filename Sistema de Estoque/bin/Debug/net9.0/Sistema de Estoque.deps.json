@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Sistema de Estoque/1.0.0": {
+        "runtime": {
+          "Sistema de Estoque.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistema de Estoque/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
