@@ -1,0 +1,4 @@
+*.vsidx
+*.bin
+/AppMVC/PrjFinanceiroSLN/PrjFinanceiro/bin
+/AppMVC/PrjFinanceiroSLN/PrjFinanceiro/obj
