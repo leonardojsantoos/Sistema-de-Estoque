@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D5FB7DD7-EA49-4441-936E-44FD630DB342}|Sistema de Estoque\\Sistema de Estoque.csproj|c:\\users\\manha.cetafest\\documents\\repos\\sistema-de-estoque\\sistema de estoque\\models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FB7DD7-EA49-4441-936E-44FD630DB342}|Sistema de Estoque\\Sistema de Estoque.csproj|solutionrelative:sistema de estoque\\models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FB7DD7-EA49-4441-936E-44FD630DB342}|Sistema de Estoque\\Sistema de Estoque.csproj|c:\\users\\manha.cetafest\\documents\\repos\\sistema-de-estoque\\sistema de estoque\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FB7DD7-EA49-4441-936E-44FD630DB342}|Sistema de Estoque\\Sistema de Estoque.csproj|solutionrelative:sistema de estoque\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FB7DD7-EA49-4441-936E-44FD630DB342}|Sistema de Estoque\\Sistema de Estoque.csproj|c:\\users\\manha.cetafest\\documents\\repos\\sistema-de-estoque\\sistema de estoque\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FB7DD7-EA49-4441-936E-44FD630DB342}|Sistema de Estoque\\Sistema de Estoque.csproj|solutionrelative:sistema de estoque\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FB7DD7-EA49-4441-936E-44FD630DB342}|Sistema de Estoque\\Sistema de Estoque.csproj|c:\\users\\manha.cetafest\\documents\\repos\\sistema-de-estoque\\sistema de estoque\\models\\movimentacaoestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FB7DD7-EA49-4441-936E-44FD630DB342}|Sistema de Estoque\\Sistema de Estoque.csproj|solutionrelative:sistema de estoque\\models\\movimentacaoestoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FB7DD7-EA49-4441-936E-44FD630DB342}|Sistema de Estoque\\Sistema de Estoque.csproj|c:\\users\\manha.cetafest\\documents\\repos\\sistema-de-estoque\\sistema de estoque\\models\\itemvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FB7DD7-EA49-4441-936E-44FD630DB342}|Sistema de Estoque\\Sistema de Estoque.csproj|solutionrelative:sistema de estoque\\models\\itemvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FB7DD7-EA49-4441-936E-44FD630DB342}|Sistema de Estoque\\Sistema de Estoque.csproj|c:\\users\\manha.cetafest\\documents\\repos\\sistema-de-estoque\\sistema de estoque\\models\\itemcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FB7DD7-EA49-4441-936E-44FD630DB342}|Sistema de Estoque\\Sistema de Estoque.csproj|solutionrelative:sistema de estoque\\models\\itemcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FB7DD7-EA49-4441-936E-44FD630DB342}|Sistema de Estoque\\Sistema de Estoque.csproj|c:\\users\\manha.cetafest\\documents\\repos\\sistema-de-estoque\\sistema de estoque\\models\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FB7DD7-EA49-4441-936E-44FD630DB342}|Sistema de Estoque\\Sistema de Estoque.csproj|solutionrelative:sistema de estoque\\models\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FB7DD7-EA49-4441-936E-44FD630DB342}|Sistema de Estoque\\Sistema de Estoque.csproj|c:\\users\\manha.cetafest\\documents\\repos\\sistema-de-estoque\\sistema de estoque\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FB7DD7-EA49-4441-936E-44FD630DB342}|Sistema de Estoque\\Sistema de Estoque.csproj|solutionrelative:sistema de estoque\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FB7DD7-EA49-4441-936E-44FD630DB342}|Sistema de Estoque\\Sistema de Estoque.csproj|c:\\users\\manha.cetafest\\documents\\repos\\sistema-de-estoque\\sistema de estoque\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FB7DD7-EA49-4441-936E-44FD630DB342}|Sistema de Estoque\\Sistema de Estoque.csproj|solutionrelative:sistema de estoque\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FB7DD7-EA49-4441-936E-44FD630DB342}|Sistema de Estoque\\Sistema de Estoque.csproj|c:\\users\\manha.cetafest\\documents\\repos\\sistema-de-estoque\\sistema de estoque\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FB7DD7-EA49-4441-936E-44FD630DB342}|Sistema de Estoque\\Sistema de Estoque.csproj|solutionrelative:sistema de estoque\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FB7DD7-EA49-4441-936E-44FD630DB342}|Sistema de Estoque\\Sistema de Estoque.csproj|c:\\users\\manha.cetafest\\documents\\repos\\sistema-de-estoque\\sistema de estoque\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FB7DD7-EA49-4441-936E-44FD630DB342}|Sistema de Estoque\\Sistema de Estoque.csproj|solutionrelative:sistema de estoque\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D5FB7DD7-EA49-4441-936E-44FD630DB342}|Sistema de Estoque\\Sistema de Estoque.csproj|c:\\users\\manha.cetafest\\documents\\repos\\sistema-de-estoque\\sistema de estoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5FB7DD7-EA49-4441-936E-44FD630DB342}|Sistema de Estoque\\Sistema de Estoque.csproj|solutionrelative:sistema de estoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,24 +70,167 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Sistema de Estoque\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Sistema de Estoque\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T12:58:21.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovimentacaoEstoque.cs",
+              "DocumentMoniker": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\Models\\MovimentacaoEstoque.cs",
+              "RelativeDocumentMoniker": "Sistema de Estoque\\Models\\MovimentacaoEstoque.cs",
+              "ToolTip": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\Models\\MovimentacaoEstoque.cs",
+              "RelativeToolTip": "Sistema de Estoque\\Models\\MovimentacaoEstoque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T12:57:55.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemVenda.cs",
+              "DocumentMoniker": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\Models\\ItemVenda.cs",
+              "RelativeDocumentMoniker": "Sistema de Estoque\\Models\\ItemVenda.cs",
+              "ToolTip": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\Models\\ItemVenda.cs",
+              "RelativeToolTip": "Sistema de Estoque\\Models\\ItemVenda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T12:57:39.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Venda.cs",
+              "DocumentMoniker": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\Models\\Venda.cs",
+              "RelativeDocumentMoniker": "Sistema de Estoque\\Models\\Venda.cs",
+              "ToolTip": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\Models\\Venda.cs",
+              "RelativeToolTip": "Sistema de Estoque\\Models\\Venda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T12:57:23.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemCompra.cs",
+              "DocumentMoniker": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\Models\\ItemCompra.cs",
+              "RelativeDocumentMoniker": "Sistema de Estoque\\Models\\ItemCompra.cs",
+              "ToolTip": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\Models\\ItemCompra.cs",
+              "RelativeToolTip": "Sistema de Estoque\\Models\\ItemCompra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T12:57:14.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\Models\\Compra.cs",
+              "RelativeDocumentMoniker": "Sistema de Estoque\\Models\\Compra.cs",
+              "ToolTip": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\Models\\Compra.cs",
+              "RelativeToolTip": "Sistema de Estoque\\Models\\Compra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T12:56:40.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Sistema de Estoque\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\Models\\Usuario.cs",
+              "RelativeToolTip": "Sistema de Estoque\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T12:56:12.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Sistema de Estoque\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\Models\\Cliente.cs",
+              "RelativeToolTip": "Sistema de Estoque\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T12:56:01.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Fornecedor.cs",
+              "DocumentMoniker": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\Models\\Fornecedor.cs",
+              "RelativeDocumentMoniker": "Sistema de Estoque\\Models\\Fornecedor.cs",
+              "ToolTip": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\Models\\Fornecedor.cs",
+              "RelativeToolTip": "Sistema de Estoque\\Models\\Fornecedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T12:55:50.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Sistema de Estoque\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\Models\\Categoria.cs",
+              "RelativeToolTip": "Sistema de Estoque\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T12:55:37.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Sistema de Estoque\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\Models\\Produto.cs",
+              "RelativeToolTip": "Sistema de Estoque\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T12:52:59.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\Program.cs",
               "RelativeDocumentMoniker": "Sistema de Estoque\\Program.cs",
               "ToolTip": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\Program.cs",
               "RelativeToolTip": "Sistema de Estoque\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-27T12:13:25.105Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Sistema de Estoque\\Views\\Home\\Index.cshtml",
@@ -51,12 +238,11 @@
               "RelativeToolTip": "Sistema de Estoque\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-27T12:13:13.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-27T12:13:13.604Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Sistema de Estoque\\Controllers\\HomeController.cs",
@@ -64,12 +250,11 @@
               "RelativeToolTip": "Sistema de Estoque\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-27T12:12:40.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-27T12:12:40.467Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\manha.cetafest\\Documents\\Repos\\Sistema-de-Estoque\\Sistema de Estoque\\appsettings.json",
               "RelativeDocumentMoniker": "Sistema de Estoque\\appsettings.json",
@@ -77,8 +262,7 @@
               "RelativeToolTip": "Sistema de Estoque\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-27T12:09:52.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-27T12:09:52.671Z"
             }
           ]
         }
