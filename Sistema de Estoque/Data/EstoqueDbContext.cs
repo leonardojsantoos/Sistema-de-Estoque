@@ -13,6 +13,13 @@ namespace SistemaEstoque.Data
         public DbSet<Produto> Produtos { get; set; }
         public DbSet<Categoria> Categorias { get; set; }
         public DbSet<Fornecedor> Fornecedores { get; set; }
+        public DbSet<Cliente> Clientes { get; set; }
+        public DbSet<Usuario> Usuarios { get; set; }
+        public DbSet<Compra> Compras { get; set; }
+        public DbSet<ItemCompra> ItensCompra { get; set; }
+        public DbSet<Venda> Vendas { get; set; }
+        public DbSet<ItemVenda> ItensVenda { get; set; }
+        public DbSet<MovimentacaoEstoque> MovimentacoesEstoque { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
